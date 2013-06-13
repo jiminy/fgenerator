@@ -1,0 +1,9 @@
+#!/usr/bin/env php
+<?php
+/**
+ * Сommand line script for Unix/Linux.
+ *
+ * This is the bootstrap script for running Fixture Generator on Unix/Linux.
+ */
+
+require_once(dirname(__FILE__).'/generator.php');

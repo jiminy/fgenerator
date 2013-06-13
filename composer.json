@@ -1,0 +1,19 @@
+{
+    "name": "jiminy/fgenerator",
+    "type": "library",
+    "description": "Fixture Generator is a PHP library that generates fixtures.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igor Gaponov"
+        }
+    ],
+    "require": {
+        "php": ">5.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "FixtureGenerator": "lib/"
+        }
+    }
+}

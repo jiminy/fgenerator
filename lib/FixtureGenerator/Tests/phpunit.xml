@@ -1,0 +1,7 @@
+<phpunit bootstrap="bootstrap.php">
+    <testsuites>
+        <testsuite name="Fixture Generator">
+            <directory suffix=".php">.</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>
